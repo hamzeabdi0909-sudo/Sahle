@@ -1,0 +1,6 @@
+{
+  "name": "Mustawa Academic Portal",
+  "description": "University student attendance, exam performance, penalty automation, and Arabic-enabled AI study platform organized by Mustawa.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
